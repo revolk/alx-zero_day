@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "ALX"
-:w:wqq
+echo "The school is open"
